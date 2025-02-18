@@ -10,7 +10,6 @@
   padding: 2rem;
   background-color: #f5f5f5;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   text-align: left;
 }
 
@@ -44,8 +43,6 @@
   margin-bottom: 3rem;
   background: #f5f5f5;
   padding: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .language-title {
@@ -63,7 +60,7 @@
 
 .translation-table th,
 .translation-table td {
-  border: 1px solid #ddd;
+  
   padding: 12px;
   text-align: left;
 }
