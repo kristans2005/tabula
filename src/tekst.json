@@ -2271,8 +2271,7 @@
       "Un "
     ],
     "background": [
-      "Konteksts",
-      "Situācija"
+      "Konteksts"
     ],
     "but": [
       "* ",
@@ -2284,7 +2283,7 @@
     ],
     "feature": [
       "Funkcionalitāte",
-      "Fīča"
+      "Funkciomālā iezīme"
     ],
     "given": [
       "* ",
@@ -2293,10 +2292,9 @@
     "name": "Latvian",
     "native": "latviešu",
     "rule": [
-      "Rule"
+      "null"
     ],
     "scenario": [
-      "Piemērs",
       "Scenārijs"
     ],
     "scenarioOutline": [
