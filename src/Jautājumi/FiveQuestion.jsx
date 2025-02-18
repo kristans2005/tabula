@@ -1,5 +1,10 @@
-export default function FiftQuestion() {
-    return (
+
+
+
+
+export default function FiveQuestion() {
+
+    return(
         <div className="question-container">
             <h1 className="question-title">Kas ir veiksmīgā iznākuma scenārijs (angļu v. Happy Path Scenario)?</h1>
             <p className="question-content">
@@ -19,3 +24,6 @@ Un lietotājs saņem apstiprinājuma e-pastu</div>
         </div>
     )
 }
+
+
+
