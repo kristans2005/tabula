@@ -1,4 +1,4 @@
-import FiftQuestion from "./fiftQuestion";
+
 import FirstQuestion from "./FirstQuestion";
 import FiveQuestion from "./FiveQuestion";
 import FourtQuestion from "./FourtQuestion";
